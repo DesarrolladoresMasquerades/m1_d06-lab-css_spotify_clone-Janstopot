@@ -6,3 +6,43 @@ Green: #00B172
 White: #FFF
 
 */
+
+header > div {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+nav {
+    width: 600px;
+    
+}
+  
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.logo{
+    width: 20%;
+    height: auto;
+}
+
+.image{
+    background-image: url("../images/landing.jpg");
+    
+}
+
+.something{
+    background-image: url("images/landing.jpg");
+    
+}
